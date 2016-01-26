@@ -1,0 +1,16 @@
+<widget id="com.example.jMBottomNavBar" version="0.0.1">
+        <name>JM Bottom NavBar</name>
+        <description>
+            A sample Apache Cordova application with bottom NavBar.
+        </description>
+        <author email="manachai_toa@utcc.ac.th" href="http://www.utcc.ac.th">
+            Apache Cordova Team
+        </author>
+        <content src="index.html" />
+		<icon src="icon.png" platform="android" qualifier="ldpi" />
+		<icon src="icon.png" platform="android" qualifier="mdpi" />
+		<icon src="icon.png" platform="android" qualifier="hdpi" />
+		<icon src="icon.png" platform="android" qualifier="xhdpi" />
+		<icon src="icon.png" platform="android" qualifier="xxhdpi" />
+        <access origin="*" />
+</widget>
